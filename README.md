@@ -7,7 +7,6 @@
 
 ### Advanced Machine Learning Methods
 
-**Martin Jurado Pedroza**  
-*A01795568*
+
 
 
